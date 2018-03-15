@@ -1,0 +1,1 @@
+powershell.exe -command ".\build.ps1 -myGetUrl %1"

@@ -1,0 +1,1 @@
+powershell.exe -command ".\publish.ps1 -project %1 -deployUrl %2 -deployPath \"%3\" -configuration %4"
